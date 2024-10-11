@@ -135,4 +135,4 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnfsdev&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnfsdev&theme=holi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
