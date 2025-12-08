@@ -120,10 +120,6 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JohnFSDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="JohnFSDev Stats" height="180" />
+  <a href="https://github.com/JohnFSDev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFSDev&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakNum=e6edf3" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnFSDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="180" />
-  </a>
-</div>
