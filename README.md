@@ -1,138 +1,129 @@
-![Banner](https://github.com/JohnFSDev/JohnFSDev/raw/main/John-Banner.svg)
+<div align="center">
+  <img src="./data_banner.svg" width="100%" alt="John's Data Dashboard Animation" />
+</div>
 
-<h1 align="center">Hi 👋, I'm John Del Rosario</h1>
-<h3 align="center">Innovative Software Engineer | Team Leader</h3>
+<h1 align="center">Welcome ❤️, I'm John Del Rosario</h1>
+<h3 align="center">🚀 Software Engineer | Data Engineer</h3>
 
-<p align="center">I am a passionate software engineer focused on transforming complex and tedious processes into user-friendly, efficient solutions. I have a strong background in team leadership, project management, and delivering scalable solutions using agile methodologies like Scrum and Kanban. My areas of expertise include backend development, DevOps, and business intelligence.</p>
+<img align="right" alt="dinoCoding" width="160" src="https://i.imgur.com/hLmuWfA.png" />
 
-<img align="right" alt="dinoCoding" width="175" src="https://i.imgur.com/hLmuWfA.png" >
-
-
----
-
-🌱 **Currently focusing on:** Backend Development, DevOps Engineering, and Business Intelligence.  
-💬 **Ask me about:** Project Management, JavaScript, Java, SQL, and Cloud Technologies.  
-👨‍💻 **Check out my projects:** [GitHub - JohnFSDev](https://github.com/JohnFSDev)  
-📫 **How to reach me:** [johnluis22@outlook.com](mailto:johnluis22@outlook.com)
-
----
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/johndelrosariosanchez/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
+    <strong>Specialized in Data Engineering, Automation & Backend Architecture.</strong>
+    <br/>
+    I transform complex processes into efficient, scalable solutions using Data & Tech.
+    <br/>
+    <br/>
+    🔭 <strong>Current Role:</strong> Data Engineer at <strong>Claro Dominicana</strong>.
+    <br/>
+    🎓 <strong>Alumni:</strong> INTEC (Software Engineering).
+    <br/>
+    🌱 <strong>Focus:</strong> Project Management, Big Data, BI, ETL.
+</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/johndelrosariosanchez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:johnluis22@outlook.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="Outlook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
-  <a href="https://linktr.ee/johnfsdev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg" alt="Linktree" height="30" width="40" />
+  <a href="https://johnfsdevportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
+
+<br clear="right"/>
 
 ---
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-</p>
+### 🛠️ Tech Stack & Competencies
 
-<h3 align="left">Backend Development:</h3>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="ASP.NET Core" width="40" height="40" />
-  </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40" />
-  </a>
-</p>
+<div align="center">
 
-<h3 align="left">FrontEnd - Development:</h3>
-<p align="left">
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40" />
-  </a>
-</p>
+  <!-- LENGUAJES -->
+  **Languages**
+  <br />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br />
 
-<h3 align="left">Databases:</h3>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-</p>
+  <!-- DATA & BI -->
+  **Data Engineering, DBs & BI**
+  <br />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pentaho-005D8C?style=for-the-badge&logo=pentaho&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<h3 align="left">Version Control:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
-  </a>
-</p>
+  <br />
 
-<h3 align="left">Project Management Software:</h3>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40" />
-  </a>
-  <a href="https://trello.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40" />
-  </a>
-</p>
+  <!-- BACKEND & FRAMEWORKS -->
+  **Backend Frameworks & ORMs**
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
+  <br />
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="40" height="40" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
-  </a>
-</p>
+  <!-- CLOUD & DEVOPS -->
+  **Cloud, DevOps & Tools**
+  <br />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</div>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnfsdev&theme=holi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+### 🏆 Featured Certifications
+
+| Certification | Organization | Year |
+| :--- | :--- | :--- |
+| **Specialization in Data Mining & BI** | SAS | 2024 |
+| **Developing Back-End Apps** | Node.js & Express | 2024 |
+| **SQL & Relational Databases 101** | IBM | 2024 |
+| **Associate Cybersecurity** | Fortinet | 2024 |
+
+---
+
+### 🚀 Highlighted Projects
+
+*   **[WithYou](https://www.withyouapp.me):** Online psychological consulting platform (Capstone Project).
+*   **[IndiC](https://github.com/JohnFSDev):** Application for calculating and projecting academic GPA.
+*   **[Hardwhere?](https://github.com/JohnFSDev):** Electronic component search system.
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JohnFSDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="JohnFSDev Stats" height="180" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnFSDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="180" />
+  </a>
+</div>
