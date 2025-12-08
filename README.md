@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./data_banner.svg" width="100%" alt="John's Data Dashboard Animation" />
+  <img src="./John-Banner.svg" width="100%" alt="John's Data Dashboard Animation" />
 </div>
 
 <h1 align="center">Welcome ❤️, I'm John Del Rosario</h1>
